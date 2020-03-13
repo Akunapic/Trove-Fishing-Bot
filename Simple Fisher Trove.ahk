@@ -35,7 +35,7 @@ GuiControl,, FishCatched_GUI, %FishCatched%
 GuiControl,, Baits_GUI, %Baits%
 return
 
-§:: ; Enter the Hotkey you want to use to start the Bot
+`:: ; Enter the Hotkey you want to use to start the Bot
 SoundBeep
 Loop
 {
